@@ -1,0 +1,6 @@
+#EXTM3U
+#STREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.nolive.me/
+#EXTINF:-1, Live STR 1
+https://ed-t5.edghst.me/plyvivo/wa4i9eyepusin02ixu1e/chunklist.m3u8
